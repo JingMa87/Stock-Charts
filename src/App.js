@@ -1,6 +1,8 @@
 import React from 'react';
 import LineChartStocks from './components/chart/LineChartStocks';
 
+process.title = App;
+
 function App() {
   return (
     <div className="App">
