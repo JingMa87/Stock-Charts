@@ -2,7 +2,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBBzYz3AIz__2tBc-Y_XsoUPJJuHwrTvQ2bsFQMd37ZMp3gGjDg" width="300">
 
-React based web app with charts of NASDAQ stocks.
+React based web app that visualizes charts of NASDAQ stocks.
 
 ### Contributing
 
